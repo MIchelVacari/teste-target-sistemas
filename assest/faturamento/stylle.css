@@ -1,0 +1,94 @@
+.resultado {
+  text-align: center;
+  font-size: 15px;
+}
+body{
+  background-color: rgba(234, 245, 245, 0.932);
+}
+
+h1{
+  text-align: center;
+}
+
+tr:nth-child(even){
+  background: rgb(231, 230, 230);
+}
+/**************tabela faturamento  ************ */
+.primeira{
+  width: 50%;
+  text-align: center;
+  padding-left:  20px;
+  
+}
+
+.content{
+  width: 50%;
+  
+}
+/* cabeçalho tabela faturamento */
+
+.faturamento{
+  background-color: cornflowerblue;
+ 
+}
+
+/* Cabeçalho tabela menor valor  */
+
+.menor{
+  padding: 15px;
+  background-color: cornflowerblue;
+  
+}
+
+/* Cabeçalho tabela maior valor */
+
+.maior{
+  background-color: cornflowerblue; 
+ 
+}
+
+/* Tabela maior valor */ 
+
+#maior{
+  width: 55%;
+  text-align: center;
+  margin-top: 15px;
+ 
+
+}
+/* Princiapal Div */
+
+#main{
+display: flex;
+margin-top: 1.5cm;
+
+}
+/* Div tabela maior e menor faturamento */
+
+.fat{
+  width: 55%;
+}
+
+/* tabela menor faturamento */
+
+#dois{
+  width: 55%;
+  text-align: center;
+  border-radius: 5%;
+}
+.acimaDa{
+  padding-top: 15px;
+  
+}
+
+.four{
+  background-color:  cornflowerblue;  
+  
+}
+
+#acima{
+  width: 55%;
+  text-align: center;
+}
+
+

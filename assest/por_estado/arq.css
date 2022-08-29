@@ -1,0 +1,21 @@
+.titulo{
+  padding-left: 28px;
+}
+
+.porcentagem{
+  padding-left: 15px;
+  width: 60%;
+}
+
+#estado{
+  width: 70%;
+  text-align: center;
+  ;
+}
+tr:nth-child(even){
+  background: rgb(233, 233, 233);
+}
+
+.topo{
+  background-color: rgb(147, 173, 223); 
+}
